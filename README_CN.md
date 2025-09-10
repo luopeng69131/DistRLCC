@@ -4,7 +4,7 @@
 该项目实现了一个基于 **PyTorch RPC + Python3 环境** 的 [Indigo 模型](https://www.usenix.org/conference/atc18/presentation/yan-francis) 的分布式训练系统（[原始实现](https://github.com/StanfordSNR/indigo)是基于Python 2.7 + tensorflow）。
 
 <!-- ![训练系统架构](./assets/pic.png) -->
-<img src="./assets/pic.png" alt="System Architecture" width="450">
+<img src="./assets/pic.png" alt="System Architecture" width="600">
 
 <!-- --- -->
 

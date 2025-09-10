@@ -6,7 +6,7 @@
 This project implements a distributed training system for the [Indigo model](https://www.usenix.org/conference/atc18/presentation/yan-francis) in a **PyTorch RPC + Python3 environment** (the [original implementation](https://github.com/StanfordSNR/indigo) was based on Python 2.7 + TensorFlow).
 
 <!-- ![System Architecture](./assets/pic.png) -->
-<img src="./assets/pic.png" alt="System Architecture" width="450">
+<img src="./assets/pic.png" alt="System Architecture" width="600">
 
 <!-- --- -->
 
